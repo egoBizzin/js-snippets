@@ -1,4 +1,4 @@
-var strEmail = "saoluutaikhoan.service@gmail.com";
+var strEmail = "someone@gmail.com";
 var strLabel = "Inbx";
 var strSeparator = " ✓ ";
 //
